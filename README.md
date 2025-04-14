@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ejike</h1>
-<h3 align="center">STEM Educator and Software Developer</h3>
+<h1>Hi 👋, I'm Ejike</h1>
+<h3>STEM Educator and Software Developer</h3>
 
 - 🔭 I’m currently working at **the Visiola Foundation**
 
